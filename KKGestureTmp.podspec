@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "KKGestureTmp"
+  s.name         = "KKGestureDemo”
   s.version      = "1.1"
   s.summary      = "gesture"
 
