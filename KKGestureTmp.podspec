@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "KKGestureDemo”
-  s.version      = “1.2”
-  s.summary      = "gesture"
+  s.name         = ‘KKGestureDemo’
+  s.version      = ‘1.2’
+  s.summary      = ’gesture’
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "https://github.com/TieShanWang/KKGestureDemo"
+  s.homepage     = ’https://github.com/TieShanWang/KKGestureDemo’
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,8 +38,8 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  #s.license      = "MIT"
+  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "TieShanWang" => "15003836653@163.com" }
+  s.author             = { ’TieShanWang’ => ’15003836653@163.com’ }
   # Or just: s.author    = "TieShanWang"
   # s.authors            = { "TieShanWang" => "15003836653@163.com" }
   # s.social_media_url   = "http://twitter.com/TieShanWang"
@@ -64,7 +64,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, ’7.0’
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/TieShanWang/KKGestureDemo.git", :tag => “1.2” }
+  s.source       = { :git => ’https://github.com/TieShanWang/KKGestureDemo.git’, :tag => “1.2” }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -116,7 +116,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-  s.framework  = "UIKit"
+  s.framework  = ’UIKit’
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"
