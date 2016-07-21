@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
 
   s.name         = “KKGestureDemo”
-  s.version      = ‘1.3.0’
+  s.version      = ‘0.0.1’
   #s.summary      = ’asd’
 
   # This description is used to generate tags and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => ’https://github.com/TieShanWang/KKGestureDemo.git’, :tag => “1.3.0” }
+  s.source       = { :git => ’https://github.com/TieShanWang/KKGestureDemo.git’, :tag => “0.0.1” }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
