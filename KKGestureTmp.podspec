@@ -13,11 +13,10 @@ Pod::Spec.new do |s|
   #  These will help people to find your library, and whilst it
   #  can feel like a chore to fill in it's definitely to your advantage. The
   #  summary should be tweet-length, and the description more in depth.
-  #
 
-  s.name         = ‘KKGestureDemo’
-  s.version      = ‘1.3’
-  #s.summary      = ’’
+  s.name         = “KKGestureDemo”
+  s.version      = ‘1.3.0’
+  #s.summary      = ’asd’
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -79,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => ’https://github.com/TieShanWang/KKGestureDemo.git’, :tag => “1.2” }
+  s.source       = { :git => ’https://github.com/TieShanWang/KKGestureDemo.git’, :tag => “1.3.0” }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
